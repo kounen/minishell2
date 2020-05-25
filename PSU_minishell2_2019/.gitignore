@@ -1,0 +1,12 @@
+mysh
+program
+*.o
+*.a
+vgcore.*
+*.gcda
+*.gcno
+unit_tests
+test/
+NormEZ.rb
+
+#OK
